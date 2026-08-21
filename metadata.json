@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Portfolio Assistant",
+  "description": "Sistem asisten portofolio penelitian kesehatan masyarakat untuk mengekstrak, merangkum, dan mempersiapkan data artikel jurnal ilmiah akademisi ke format database WordPress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
